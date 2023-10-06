@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+header{
+    text-align: center;
+    color:red;
+}
+
 .shared-section{
     margin: 2rem 10rem;
 }
